@@ -73,7 +73,6 @@ Como **skill secundária** (e meu diferencial estratégico), possuo forte domín
 ### 📊 Analytics & Consistência
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tx-Bovo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="Linguagens Mais Usadas" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tx-Bovo&theme=tokyonight&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
 </div>
 
