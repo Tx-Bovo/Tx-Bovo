@@ -48,21 +48,21 @@ Como **skill secundária** (e meu diferencial estratégico), possuo forte domín
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h4>☁️ <a href="https://github.com/Tx-Bovo/link-do-seu-repositorio-oracle">Secure Cloud VPN Gateway & SIEM</a></h4>
-      <p><i>Infraestrutura de alta observabilidade na Oracle Cloud (OCI).</i></p>
+      <h4>🤖 <a href="https://github.com/Tx-Bovo/automated-threat-intel-pipeline">SOAR: Automated Threat Intelligence Pipeline</a></h4>
+      <p><i>Pipeline de resposta a incidentes com triagem e enriquecimento automático de IOCs.</i></p>
       <ul>
-        <li><b>SOC Ops:</b> Deploy de Wazuh para File Integrity Monitoring (FIM).</li>
-        <li><b>Observabilidade:</b> Zabbix + Grafana monitorando telemetria.</li>
-        <li><b>Zero Trust:</b> VPN restrita como Bastion Host para redes privadas.</li>
+        <li><b>Orquestração:</b> n8n com processamento paralelo via VirusTotal & AlienVault OTX.</li>
+        <li><b>Risk Scoring:</b> Algoritmo de consenso multi-fonte para eliminar falsos positivos.</li>
+        <li><b>Automação:</b> Criação automática de casos no TheHive e alertas no Slack via Block Kit.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Tx-Bovo/link-do-seu-repositorio-opnsense">Corporate Network Defense Lab</a></h4>
-      <p><i>Simulação corporativa realista (OPNsense & GNS3).</i></p>
+      <h4>🔍 <a href="https://github.com/Tx-Bovo/wazuh-detection-engineering">SOC Triage & AD Threat Hunting Dashboard</a></h4>
+      <p><i>Single Pane of Glass para triagem tática sobre Wazuh / OpenSearch.</i></p>
       <ul>
-        <li><b>Hardening:</b> Políticas Anti-Pivoting e Least Privilege.</li>
-        <li><b>Layer 2/3:</b> Criação de VLANs isoladas (DMZ, MGMT, LAN).</li>
-        <li><b>Acesso:</b> VPN SSL com MFA/OTP exclusivo para gerência.</li>
+        <li><b>Detecção:</b> Correlação temporal mapeada ao MITRE ATT&CK (T1110 — Brute Force).</li>
+        <li><b>Supressão:</b> Regras customizadas de nível 0 para erradicar Alert Fatigue na origem.</li>
+        <li><b>Hunting:</b> Filtro DQL isolando logons externos anômalos (Event ID 4624/4625/4740).</li>
       </ul>
     </td>
   </tr>
