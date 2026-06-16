@@ -82,6 +82,6 @@ Como **skill secundária** (e meu diferencial estratégico), possuo forte domín
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagobovocosta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:bovocostathiago@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato@thiagosec.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://tryhackme.com/p/thxht"><img src="https://img.shields.io/badge/TryHackMe-Black?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank"></a>
 </div>
